@@ -144,6 +144,5 @@ if st.button(
 # Rodapé institucional
 st.caption(
     "MycoGuard v1.0 — Projeto Integrador para a disciplina de Inteligência"
-    " Artificial"
-
+    " Artificial | Feito por: [Bruno](https://github.com/dvbcknd)"
 )
