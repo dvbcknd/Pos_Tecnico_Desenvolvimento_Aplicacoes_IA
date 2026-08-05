@@ -12,6 +12,12 @@ Distinguir espécimes comestíveis de venenosos a olho nu é uma tarefa ambígua
 
 ---
 
+<img width="860" height="673" alt="image" src="https://github.com/user-attachments/assets/a7f1f2e7-8603-4a04-a3a6-a26947e347c5" />
+<img width="860" height="577" alt="image" src="https://github.com/user-attachments/assets/46c46b99-e0b5-487c-bd00-8365c0412653" />
+
+
+---
+
 ## 🎯 Principais Destaques e Diferenciais
 
 - **IA Explicável (Modelo Caixa-Branca):** Utiliza o algoritmo *DecisionTreeClassifier* (Árvore de Decisão), permitindo auditabilidade total dos nós de decisão e transparência crítica em cenários de saúde.
@@ -75,7 +81,7 @@ MycoGuard/
 
 1 - Clone o repositório:
 ```bash
-
+https://github.com/dvbcknd/Pos_Tecnico_Desenvolvimento_Aplicacoes_IA/tree/main/03_Inteligencia_Artificial/Projeto_MycoGuard
 ```
 
 2 - Crie e ative um ambiente virtual (recomendado):
