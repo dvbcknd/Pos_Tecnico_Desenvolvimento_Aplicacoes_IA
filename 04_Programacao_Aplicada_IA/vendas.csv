@@ -1,0 +1,6 @@
+id_venda,produto,quantidade,valor_unitario,data,categoria
+1,Notebook,2,3500.00,2026-03-10,Eletrônicos
+2,Smartphone,5,1200.00,2026-03-11,Eletrônicos
+3,Cadeira Gamer,1,1500.00,2026-03-11,Móveis
+4,Mouse Sem Fio,10,80.00,2026-03-12,Periféricos
+5,Teclado Mecânico,3,250.00,2026-03-12,Periféricos
